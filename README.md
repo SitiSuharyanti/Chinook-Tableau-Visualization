@@ -48,5 +48,5 @@ This project visualizes the Chinook Database (a sample dataset simulating a digi
 
 ## Tools Used
  
-- **Visualization:** Tableau Public
-- **Dataset:** [Chinook Database](https://github.com/lerocha/chinook-database)
+- Visualization: Tableau Public
+- Dataset: [Chinook Database](https://github.com/lerocha/chinook-database)
