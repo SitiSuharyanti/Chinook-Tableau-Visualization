@@ -4,8 +4,6 @@ An interactive Tableau dashboard exploring revenue trends, customer segmentation
 
 > For dataset details, see the [Chinook SQL Analysis](https://github.com/SitiSuharyanti/Chinook-SQL-Analysis) repository.
 
----
-
 ## Project Overview
 
 This project visualizes the Chinook Database (a sample dataset simulating a digital music store) across two dashboards to answer key business questions:
@@ -26,15 +24,11 @@ This project visualizes the Chinook Database (a sample dataset simulating a digi
 
 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/siti.suharyanti/viz/ChinookMusicStore/RevenueOverview)
 
----
-
 ## Dashboard Preview
 
 |                 Revenue Overview                 |                      Customer & Music Performance                      |
 | :----------------------------------------------: | :--------------------------------------------------------------------: |
 | ![Revenue Overview](assets/revenue_overview.png) | ![Customer & Music Performance](assets/customer_music_performance.png) |
-
----
 
 ## Key Insights
 
@@ -56,5 +50,3 @@ This project visualizes the Chinook Database (a sample dataset simulating a digi
  
 - **Visualization:** Tableau Public
 - **Dataset:** [Chinook Database](https://github.com/lerocha/chinook-database)
-
----
