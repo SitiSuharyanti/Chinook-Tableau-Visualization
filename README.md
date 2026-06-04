@@ -52,8 +52,6 @@ This project visualizes the Chinook Database (a sample dataset simulating a digi
 - Iron Maiden is the best-selling artist by a significant margin, followed by U2 and Metallica.
 - Rock overwhelmingly dominates genre revenue, with Latin and Metal as distant second and third.
 
----
-
 ## Tools Used
  
 - **Visualization:** Tableau Public
